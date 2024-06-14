@@ -1,0 +1,32 @@
+Ans1. 
+1. New Semantic Elements
+HTML5 introduced several new semantic elements that provide more meaningful structure to web documents:
+
+<header>: Defines a header for a document or section.
+<nav>: Defines a container for navigation links.
+<section>: Defines a section in a document.
+<article>: Defines an independent, self-contained content.
+<aside>: Defines content aside from the main content.
+<footer>: Defines a footer for a document or section.
+<main>: Defines the main content of the document.
+<figure> and <figcaption>: Defines a figure and its caption.
+New Form Elements and Attributes
+HTML5 introduced new input types and attributes to enhance form functionality:
+
+2. New Input Types
+email: For email addresses.
+url: For URLs.
+number: For numeric input.
+
+Ans2.
+Semantic tags in HTML5 provide meaningful context to the structure of web documents. These tags clearly describe their purpose and the type of content they contain, making the HTML more readable and accessible both for developers and for assistive technologies used by individuals with disabilities. Here are a couple of examples of semantic tags:
+
+Examples of Semantic Tags
+1. <header>
+2. <section>
+
+Ans3
+1. Represents independent, self-contained content such as blog posts, news articles, forum posts, etc.
+2. Defines a thematic grouping of content within a document.
+3. Contains navigation links that direct users to other pages or sections within the website.
+4. Defines introductory content or navigation links at the top of a document or section.
